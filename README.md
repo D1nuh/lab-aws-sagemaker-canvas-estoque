@@ -4,13 +4,13 @@
 
 A base de dados foi criada por mim mesmo, é uma base de dados fictícia em CSV usada para fins de analise e estudos
 
-|Nome do Produto|Categoria|Preço Atual|Preço Futuro|Esperado|
-|-------|--------|--------|--------|-------|
-|Smartphone Modelo X|Eletrônicos|1500|1800|
-|Laptop Modelo Y|Eletrônicos|2500|2800|
-|Tênis de Marca Z|Moda|300|350|
-|Câmera DSLR|Fotografia|1200|1500|
-|Panela Elétrica|Cozinha|100|120|
+|Id do produto|Nome do Produto|Categoria|Preço Atual|Vendas diárias|Vendas mensais|Vendas Anuais|
+|-------|-------|--------|--------|--------|-------|-------|
+|1|Smartphone |Eletrônicos|R$ 1499.00|10|50|200|
+|2|Laptop Modelo Y|Eletrônicos|R$ 2699.00|8|30|90|
+|3|Tênis Esportivo|Moda|R$ 299.00|500|600|1200|
+|4|Câmera Fotografia|Fotografia|R$ 1199.00|10|80|200|
+|5|Panela Elétrica|Cozinha|R$ 99.00|120|600|1000|
 
 
 ## Objetivos principais
