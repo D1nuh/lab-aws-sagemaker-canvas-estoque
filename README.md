@@ -25,7 +25,11 @@ A base de dados foi criada por mim mesmo, é uma base de dados bem grande por te
 • indentificar futuros crescimentos ou quedas nas demandas dos produtos
 
 ## Tecnologias usadas
-...
+• AWS (Amazon Web Services) - Software de aplicação.
+
+• Arquivo CSV (Comma-separated values) - Formato do banco de dados.
+
+• ChatGpt - Assistência no banco de dados
 
 ## Metricas do modelo
 Obtive os seguintes resultados nas metricas de desempenho do modelo:
@@ -44,15 +48,17 @@ MASE - 0.147
 
 Ao finalizar o processo de treinamento do sistema de ML analisei os seguintes Insight:
 
-• Ao observar a taxa em porcentagem de crescimento, os medidores de P10, P50 e P90 estava paralelos, oque ja esperava, pois, não teve taxa de variação.
+• Ao observar a taxa em porcentagem de crescimento, os medidores de P10, P50 e P90 estavam paralelos, o que ja esperava, pois, não teve taxa de variação de médias de vendas.
 
-• Outro insight valioso foi a taxa de prejuízo anual que considerando os Feriodos do ano no Brasil, indicou um prejuízo de: 
+• Outro insight valioso foi a taxa de prejuízo anual que considerando os Feriodos do ano no Brasil (11 a 13 dias), indicou um prejuízo de: 
 
 • P10(Minimo) R$ 2.309.472,00
 
-• P90(Maximo)R$ 2.729.176,00.
+• P50(média) R$ 2.510.254.00
 
-com relação ao preço que iria ser obtido ao desconsiderá-los
+• P90(Maximo)R$ 2.729.176,00
+
+Preço obrido ao analisar o preço que iria ser obtido ao desconsidera os feriados com o cenário que se considera.
 
 ## Feedback
 
