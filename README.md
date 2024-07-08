@@ -40,8 +40,25 @@ WAPE - 0.782
 
 MASE - 0.147
 
+## Observações e Resultados
 
+Ao finalizar o processo de treinamento do sistema de ML analisei os seguintes Insight:
 
+• Ao observar a taxa em porcentagem de crescimento, os medidores de P10, P50 e P90 estava paralelos, oque ja esperava, pois, não teve taxa de variação.
+
+• Outro insight valioso foi a taxa de prejuízo anual que considerando os Feriodos do ano no Brasil, indicou um prejuízo de: 
+
+• P10(Minimo) R$ 2.309.472,00
+
+• P90(Maximo)R$ 2.729.176,00.
+
+com relação ao preço que iria ser obtido ao desconsiderá-los
+
+## Feedback
+
+O modelo de ML da AWS É um mecanismo muito prático e muito moderno para análise e desenvolvimento de insights para empresas, é um modelo no-code te espero trabalhar mais no futuro, pois, pessoalmente, eu domino mais da área de Front-End e API e essa ferramenta é essencial para melhoras as minhas análises de dados
+
+```Luiz Hilario - Licença MIT```
 
 
 
